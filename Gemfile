@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem 'sinatra'
-gem 'thin'
+gem 'thin', '~> 1.8'
 gem 'require_all'
 
 
